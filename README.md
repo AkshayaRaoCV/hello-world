@@ -1,2 +1,2 @@
 # hello-world
-Practising githut flow 
+Practising GitHub flow 
